@@ -9,6 +9,7 @@ end
 # code your input_to_index and move method here!
 
 def input_to_index(num)
+  binding.pry
   num.to_i - 1
 end
 
